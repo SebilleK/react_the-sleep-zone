@@ -1,0 +1,24 @@
+/* extra styles / modifications */
+@import url('https://fonts.googleapis.com/css2?family=Dhurjati&display=swap');
+
+input:hover {
+	cursor: pointer;
+}
+
+h1 {
+	font-family: 'Dhurjati', sans-serif;
+	font-size: 5rem;
+}
+
+.span:hover {
+	cursor: pointer;
+}
+
+/* insert fixes for responsive layout */
+
+/* fixing input sizes */
+/* @media only screen and (min-width: 768px) and (max-width: 1024px) {
+	input[type='time'] {
+		width: 20rem;
+	}
+} */
