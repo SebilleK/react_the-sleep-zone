@@ -4,8 +4,7 @@ This is a simple React + Vite app that provides 2 calculators:
 
 The first uses a bedtime input to calculate the best times to wake-up according to the duration of a normal sleep cycle, while the second calculates the best bedtime in a similar way according to a targeted wake-up input. A theme switcher (dark/light) was included.
 
-The styling is fully done with Bootstrap, except for a few adjustments. This web app was created to practice React and test Bootstrap, and the calculators were previously coded for a pure HTML/CSS + JS web app ([original here](https://github.com/SebilleK/the-sleep-zone)
-).
+The styling is fully done with Bootstrap, except for a few adjustments. This web app was created to practice React and test Bootstrap, and the calculators were previously coded for a pure HTML/CSS + JS web app ([original here](https://github.com/SebilleK/the-sleep-zone)).
 
 ### Possible Optimizations (TBA):
 
