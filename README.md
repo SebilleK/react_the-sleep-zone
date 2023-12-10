@@ -1,4 +1,4 @@
-# The Sleep Zone
+# The Sleep Zone (React)
 
 This is a simple React + Vite app that provides 2 calculators:
 
